@@ -11,13 +11,13 @@ Expected Graduation: 2027 | GPA: 3.9/4
 
 ## Courses & Certificates
 
-+ Introduction to Data Science, _Cisco_
-+ Data Analytics Essentials, _Cisco_
-+ Data Analytics, _Helwan University_
-+ Data Analysis with Python, _freeCodeCamp.com_
-+ Feasibility Study for Projects, Helwan University
-+ Introduction to Cybersecurity, _Cisco_
-+ Data Analytics Job Simulation, _Deloitte Australia_
++ **Introduction to Data Science**, _Cisco_
++ **Data Analytics Essentials**, _Cisco_
++ **Data Analytics**, _Helwan University_
++ **Data Analysis with Python**, _freeCodeCamp.com_
++ **Feasibility Study for Projects**, Helwan University
++ **Introduction to Cybersecurity**, _Cisco_
++ **Data Analytics Job Simulation**, _Deloitte Australia_
   
 ## Technical Skills
 
